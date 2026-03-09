@@ -31,7 +31,7 @@ Furthermore, the negative log likelihood is very similar. It can be seen that, f
 
 However, a graphical assessment is insufficient. Therefore, as a final point, the confusion matrix for both models is presented. This is typically used for models that solve classification problems.
 
-----MATRIX----
+<img width="1258" height="528" alt="image" src="https://github.com/user-attachments/assets/fa59185a-601c-46d4-996e-c92fc2dc83a5" />
 
 # Challenges 
 Challenges are divided into its different groups. 
@@ -53,7 +53,7 @@ For this reason, one of my long-term goals is to gain more confidence and compet
 While this project/notebook is for demonstrating purposes only and the results speaks for themselves, a implementation of discrete hmms for positional trading strategys is not a valid approach. However, the next part consists of the creation of hidden markov models with gaussian emissions. 
 The result should look like the next image shown.
 
-----IMAGE----
+<img width="1164" height="528" alt="image" src="https://github.com/user-attachments/assets/5289ca29-a536-4c87-a7ff-48437d432ff1" />
 
 ### References 
 
